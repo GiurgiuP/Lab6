@@ -1,0 +1,32 @@
+[
+  {
+    "numele": "Ion Popescu",
+    "postul": "sef departament",
+    "data_angajarii": "2023-04-15",
+    "salariul": 3000
+  },
+  {
+    "numele": "Maria Ionescu",
+    "postul": "manager",
+    "data_angajarii": "2023-05-10",
+    "salariul": 2700
+  },
+  {
+    "numele": "Vasile Georgescu",
+    "postul": "director marketing",
+    "data_angajarii": "2023-04-22",
+    "salariul": 3500
+  },
+  {
+    "numele": "Elena Dumitru",
+    "postul": "sef proiect",
+    "data_angajarii": "2023-04-03",
+    "salariul": 3200
+  },
+  {
+    "numele": "Andrei Popa",
+    "postul": "director IT",
+    "data_angajarii": "2023-04-18",
+    "salariul": 4500
+  }
+]
